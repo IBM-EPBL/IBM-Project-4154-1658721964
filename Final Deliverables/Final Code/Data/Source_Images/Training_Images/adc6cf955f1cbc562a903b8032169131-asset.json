@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "adc6cf955f1cbc562a903b8032169131",
+        "name": "ISIC_0025019.jpg",
+        "path": "file:C:/Users/MadhuVasanth1606/Desktop/yolo_structure/Data/Source_Images/Training_Images/ISIC_0025019.jpg",
+        "size": {
+            "width": 600,
+            "height": 450
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cZ4ks7RDH",
+            "type": "RECTANGLE",
+            "tags": [
+                "Basal cell Carcinoma"
+            ],
+            "boundingBox": {
+                "height": 218.31683168316835,
+                "width": 352.41635687732344,
+                "left": 121.93313088115707,
+                "top": 96.2562107803798
+            },
+            "points": [
+                {
+                    "x": 121.93313088115707,
+                    "y": 96.2562107803798
+                },
+                {
+                    "x": 474.3494877584805,
+                    "y": 96.2562107803798
+                },
+                {
+                    "x": 474.3494877584805,
+                    "y": 314.5730424635481
+                },
+                {
+                    "x": 121.93313088115707,
+                    "y": 314.5730424635481
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

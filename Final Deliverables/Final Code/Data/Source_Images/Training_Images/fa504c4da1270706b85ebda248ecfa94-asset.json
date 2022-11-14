@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fa504c4da1270706b85ebda248ecfa94",
+        "name": "ISIC_6653780.jpg",
+        "path": "file:C:/Users/MadhuVasanth1606/Desktop/yolo_structure/Data/Source_Images/Training_Images/ISIC_6653780.jpg",
+        "size": {
+            "width": 512,
+            "height": 512
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9wstWq4Y0",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanoma"
+            ],
+            "boundingBox": {
+                "height": 197.94795539033456,
+                "width": 194.14126394052045,
+                "left": 157.34328531598513,
+                "top": 142.43372444237917
+            },
+            "points": [
+                {
+                    "x": 157.34328531598513,
+                    "y": 142.43372444237917
+                },
+                {
+                    "x": 351.48454925650555,
+                    "y": 142.43372444237917
+                },
+                {
+                    "x": 351.48454925650555,
+                    "y": 340.38167983271376
+                },
+                {
+                    "x": 157.34328531598513,
+                    "y": 340.38167983271376
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

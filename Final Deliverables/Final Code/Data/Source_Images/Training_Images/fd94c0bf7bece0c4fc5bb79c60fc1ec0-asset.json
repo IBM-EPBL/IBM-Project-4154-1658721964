@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fd94c0bf7bece0c4fc5bb79c60fc1ec0",
+        "name": "0_18.jpg",
+        "path": "file:C:/Users/MadhuVasanth1606/Desktop/yolo_structure/Data/Source_Images/Training_Images/0_18.jpg",
+        "size": {
+            "width": 294,
+            "height": 222
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "rb8OMQamh",
+            "type": "RECTANGLE",
+            "tags": [
+                "Eczema"
+            ],
+            "boundingBox": {
+                "height": 62.69948513989378,
+                "width": 83.79184379719447,
+                "left": 67.76208178438661,
+                "top": 108.51664786503233
+            },
+            "points": [
+                {
+                    "x": 67.76208178438661,
+                    "y": 108.51664786503233
+                },
+                {
+                    "x": 151.55392558158107,
+                    "y": 108.51664786503233
+                },
+                {
+                    "x": 151.55392558158107,
+                    "y": 171.21613300492612
+                },
+                {
+                    "x": 67.76208178438661,
+                    "y": 171.21613300492612
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

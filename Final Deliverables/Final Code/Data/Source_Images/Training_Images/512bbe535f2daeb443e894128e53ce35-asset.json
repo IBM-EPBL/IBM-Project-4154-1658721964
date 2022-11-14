@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "512bbe535f2daeb443e894128e53ce35",
+        "name": "1_39.jpg",
+        "path": "file:C:/Users/MadhuVasanth1606/Desktop/yolo_structure/Data/Source_Images/Training_Images/1_39.jpg",
+        "size": {
+            "width": 294,
+            "height": 222
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8ir4bSpZ6",
+            "type": "RECTANGLE",
+            "tags": [
+                "Atopic Dermatitis"
+            ],
+            "boundingBox": {
+                "height": 165.4975480704472,
+                "width": 215.6728735714597,
+                "left": 50.27509293680297,
+                "top": 44.35899014778325
+            },
+            "points": [
+                {
+                    "x": 50.27509293680297,
+                    "y": 44.35899014778325
+                },
+                {
+                    "x": 265.94796650826265,
+                    "y": 44.35899014778325
+                },
+                {
+                    "x": 265.94796650826265,
+                    "y": 209.85653821823044
+                },
+                {
+                    "x": 50.27509293680297,
+                    "y": 209.85653821823044
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

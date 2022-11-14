@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "240d775a7aec08c1429d5a170366b9c1",
+        "name": "ISIC_0000014.jpg",
+        "path": "file:C:/Users/MadhuVasanth1606/Desktop/yolo_structure/Data/Source_Images/Training_Images/ISIC_0000014.jpg",
+        "size": {
+            "width": 1022,
+            "height": 767
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "cFoT4cKko",
+            "type": "RECTANGLE",
+            "tags": [
+                "Melanocytic Nevi"
+            ],
+            "boundingBox": {
+                "height": 511.33341058410036,
+                "width": 759.8513011152417,
+                "left": 103.84638313378544,
+                "top": 136.4952687178508
+            },
+            "points": [
+                {
+                    "x": 103.84638313378544,
+                    "y": 136.4952687178508
+                },
+                {
+                    "x": 863.697684249027,
+                    "y": 136.4952687178508
+                },
+                {
+                    "x": 863.697684249027,
+                    "y": 647.8286793019512
+                },
+                {
+                    "x": 103.84638313378544,
+                    "y": 647.8286793019512
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
