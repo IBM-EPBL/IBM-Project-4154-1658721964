@@ -1,0 +1,53 @@
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_1.jpg 168,59,258,102,0 182,110,286,144,0 190,155,264,180,0
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_10.jpg 93,90,189,153,0
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_13.jpg 73,10,131,43,0 59,57,104,79,0 34,86,68,119,0
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_16.jpg 251,102,289,135,0 160,111,187,132,0
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_15.jpg 40,25,71,55,0 104,67,136,88,0 114,105,151,129,0 95,26,125,53,0
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_18.jpg 68,109,152,171,0
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_17.jpg 121,59,180,130,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_20.jpg 124,65,181,133,0
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_3.jpg 60,79,109,118,0 60,20,103,63,0 62,132,107,157,0 256,106,290,144,0
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_39.jpg 106,110,139,136,0 139,72,165,103,0 164,28,190,63,0 181,135,212,162,0
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_4.jpg 117,95,203,151,0
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_40.jpg 219,77,274,127,2 42,107,79,133,2 124,110,176,149,2
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_42.jpg 198,20,267,140,2 6,17,104,88,2 32,137,117,187,2 202,163,243,205,2
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_8.jpg 103,90,186,154,0
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\0_9.jpg 63,54,121,185,0 173,80,244,135,0 187,146,222,198,0
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_20.jpg 42,60,117,183,1 187,26,272,106,1 32,4,133,53,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_21.jpg 162,109,215,176,1 166,1,224,57,1 71,23,114,87,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_22.jpg 176,93,221,147,1 148,143,190,208,1 142,1,173,48,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_23.jpg 104,67,190,141,1 189,4,248,52,1 63,152,205,193,1 195,80,239,136,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_24.jpg 51,92,109,134,1 70,139,133,187,1 136,103,191,146,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_25.jpg 42,80,93,134,1 169,68,227,155,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_27.jpg 109,54,192,145,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_30.jpg 52,89,95,129,1 108,72,165,145,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_26.jpg 27,49,130,121,1 174,106,256,184,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_31.jpg 200,76,255,130,1 110,98,185,140,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_34.jpg 95,22,200,84,1 72,90,224,163,1 39,167,232,220,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_33.jpg 98,44,236,184,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_38.jpg 52,20,238,202,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_32.jpg 37,24,258,187,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\1_39.jpg 50,44,266,210,1
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0000001.jpg 261,180,836,607,3
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0000014.jpg 104,136,864,648,3
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0000015.jpg 175,121,813,633,3
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0000018_downsampled.jpg 107,114,909,610,3
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0000021_downsampled.jpg 112,83,769,717,3
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0025019.jpg 122,96,474,315,4
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0025031.jpg 175,110,416,355,4
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0000024_downsampled.jpg 239,124,853,662,3
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0024949.jpg 73,165,409,427,4
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0025046.jpg 201,61,404,246,4 155,260,293,384,4
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0025856.jpg 262,124,513,353,4
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_6653456.jpg 110,35,416,433,5
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0025102.jpg 207,98,338,200,4 207,234,425,396,4 33,211,204,353,4
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_6653780.jpg 157,142,351,340,5
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_0025867.jpg 95,38,241,239,4 271,139,552,395,4
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_6654875.jpg 78,42,406,411,5
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_6656318.jpg 169,164,386,362,5
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_6656373.jpg 145,120,378,357,5
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_6656563.jpg 128,108,380,364,5
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_6657600.jpg 52,122,450,453,5
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_6658067.jpg 193,174,339,351,5
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_6658892.jpg 151,71,421,423,5
+C:\Users\MadhuVasanth1606\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\ISIC_6657660.jpg 133,149,316,282,5
